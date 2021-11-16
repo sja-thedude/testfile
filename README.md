@@ -1,67 +1,65 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# To Do List
+# Project Name
 
-This project is part of the 2nd Module 2 Block of Microverse curriculum. The main objective is to use webpack to bundle JavaScript, learn how to use proper ES6 syntax, use ES6 modules to write modular JavaScript, and learn how to use JavaScript objects and arrays and dynamically modify the DOM and add basic events. This will follow professional guidelines in responsive design.
+> One paragraph statement about the project.
 
-This project will be a basic website that allows users to add, modify and remove a list of To Do tasks.
+![screenshot](./app_screenshot.png)
 
-##[Live](https://sja-thedude.github.io/To-Do-List/dist/)
+Additional description about the project and its features.
 
 ## Built With
 
-- Html/Css
-- JavaScript
-- Webpack
+- Major languages
+- Frameworks
+- Technologies used
 
-## Additional Tools
+## Live Demo
 
-- Webhint
-- Stylelint
-- Eslint 
+[Live Demo Link](https://livedemo.com)
 
-## Test
-To track linter errors locally follow these steps:  
 
-Download all the dependencies run:
-```
-npm install
-```
-Track HTML linter errors run:
-```
-npx hint .
-```
-Track CSS linter errors run:
-```
-npx stylelint "**/*.{css,scss}"
-```
-Track JavaScript linter errors run:
-```
-npx eslint .
-```
-## Run webpack server
-```
-npm run start
-```
-## Run build
-```
-npm run build
-```
+## Getting Started
+
+**This is an example of how you may give instructions on setting up your project locally.**
+**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+
+
+To get a local copy up and running follow these simple example steps.
+
+### Prerequisites
+
+### Setup
+
+### Install
+
+### Usage
+
+### Run tests
+
+### Deployment
+
+
 
 ## Authors
 
-👤 **Syeda Juveria Afreen**
+👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/sja-the-dude)
-- Twitter: [@twitterhandle](https://twitter.com/sja_thedude)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in//)
+- GitHub: [@githubhandle](https://github.com/githubhandle)
+- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
+👤 **Author2**
+
+- GitHub: [@githubhandle](https://github.com/githubhandle)
+- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome!  
-Feel free to check the [issues page]().
+Contributions, issues, and feature requests are welcome!
 
+Feel free to check the [issues page](../../issues/).
 
 ## Show your support
 
@@ -69,10 +67,9 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- This project is part of week 1 of module 2 in the Microverse study program.
-- Thanks to the Microverse team for the great curriculum.
-- Thanks to Code Reviewers for the insightful feedback.
-- A great thanks to My coding partners, morning session team, and standup team Partners for their contributions.
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
 
 ## 📝 License
 
