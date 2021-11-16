@@ -1,0 +1,41 @@
+header {
+  background-color: rgb(238, 196, 145);
+  display: flex;
+  justify-content: left;
+}
+
+.nav {
+  display: flex;
+  justify-content: space-between;
+  padding-left: 100px;
+}
+
+.item {
+  margin-right: 30px;
+}
+
+footer {
+  justify-content: center;
+}
+
+footer h4 {
+  color: black;
+}
+
+.logo {
+  width: 45px;
+}
+
+.con {
+  padding: 20px;
+}
+
+.popup {
+  background-color: rgba(104, 107, 150, 0.774);
+  position: absolute;
+  top: 10%;
+  left: 20%;
+  width: 60vw;
+  z-index: 100;
+  border-radius: 40px;
+}
